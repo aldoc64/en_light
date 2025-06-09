@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="bbc.world"><display-name>BBC World News</display-name></channel>
+  <channel id="euronews.en"><display-name>Euronews</display-name></channel>
+  <channel id="aljazeera.english"><display-name>Al Jazeera English</display-name></channel>
+  <channel id="bloomberg.us"><display-name>Bloomberg</display-name></channel>
+  <channel id="nhk.world"><display-name>NHK World Japan</display-name></channel>
+
+  <programme start="20250609140000 +0000" stop="20250609150000 +0000" channel="bbc.world">
+    <title lang="en">BBC World - News Hour</title>
+  </programme>
+  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="bbc.world">
+    <title lang="en">BBC World - Global Focus</title>
+  </programme>
+
+  <programme start="20250609140000 +0000" stop="20250609150000 +0000" channel="euronews.en">
+    <title lang="en">Euronews - Live Update</title>
+  </programme>
+  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="euronews.en">
+    <title lang="en">Euronews - Headlines</title>
+  </programme>
+
+  <programme start="20250609140000 +0000" stop="20250609150000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera - Middle East News</title>
+  </programme>
+  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="aljazeera.english">
+    <title lang="en">Al Jazeera - Global Report</title>
+  </programme>
+
+  <programme start="20250609140000 +0000" stop="20250609150000 +0000" channel="bloomberg.us">
+    <title lang="en">Bloomberg - Market Watch</title>
+  </programme>
+  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="bloomberg.us">
+    <title lang="en">Bloomberg - Economic Briefing</title>
+  </programme>
+
+  <programme start="20250609140000 +0000" stop="20250609150000 +0000" channel="nhk.world">
+    <title lang="en">NHK - Japan Today</title>
+  </programme>
+  <programme start="20250609150000 +0000" stop="20250609160000 +0000" channel="nhk.world">
+    <title lang="en">NHK - World Headlines</title>
+  </programme>
+</tv>
